@@ -35,7 +35,7 @@
 
 <!-- ══════════════ ABOUT ══════════════ -->
 
-<img align="right" width="290" src="./assets/dahabme.jpeg" alt="right-side visual — swap for your photo: ./assets/me.png">
+<img align="right" width="290" src="https://raw.githubusercontent.com/M7mdA13/M7mdA13/main/assets/dahabme.jpeg" alt="Mohamed Adham">
 
 ### `>` whoami
 
