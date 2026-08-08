@@ -28,7 +28,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamed-abdelgelil-83a120153/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:madham2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="PORTFOLIO_URL_HERE"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.ieeemust.org/"><img src="https://img.shields.io/badge/IEEE_MUST-00629B?style=for-the-badge&logo=ieee&logoColor=white"></a>
 </p>
 
@@ -36,7 +35,7 @@
 
 <!-- ══════════════ ABOUT ══════════════ -->
 
-<img align="right" width="290" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/GitHub/GitHub.png" alt="right-side visual — swap for your photo: ./assets/me.png">
+<img align="right" width="290" src="./assets/dahabme.jpeg" alt="right-side visual — swap for your photo: ./assets/me.png">
 
 ### `>` whoami
 
