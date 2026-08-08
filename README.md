@@ -177,8 +177,7 @@ promoted to Head for the 2026 season.
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=M7mdA13&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&title_color=6C63FF&icon_color=6C63FF&theme=transparent" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7mdA13&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&title_color=6C63FF&theme=transparent" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M7mdA13&theme=github_dark" />
 
 <br><br>
 
@@ -206,7 +205,7 @@ promoted to Head for the 2026 season.
 
   More stable alternative that needs no setup — swap the two cards above for:
 
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M7mdA13&theme=github_dark" />
+    
 
   OPTIONAL — animated contribution snake:
     Add .github/workflows/snake.yml from github.com/Platane/snk,
