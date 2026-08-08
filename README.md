@@ -177,41 +177,11 @@ promoted to Head for the 2026 season.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M7mdA13&theme=github_dark" />
+<img src="https://raw.githubusercontent.com/M7mdA13/M7mdA13/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%">
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=M7mdA13&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" />
+<img src="https://raw.githubusercontent.com/M7mdA13/M7mdA13/main/profile-summary-card-output/github_dark/3-stats.svg" height="200">
+<img src="https://raw.githubusercontent.com/M7mdA13/M7mdA13/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" height="200">
+<img src="https://raw.githubusercontent.com/M7mdA13/M7mdA13/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" height="200">
+<img src="https://raw.githubusercontent.com/M7mdA13/M7mdA13/main/profile-summary-card-output/github_dark/4-productive-time.svg" height="200">
 
 </div>
-
-<!--
-  ══════════════ IF THE STATS CARDS SHOW AS BROKEN IMAGES ══════════════
-
-  The shared github-readme-stats instance is rate-limited by GitHub and
-  fails constantly. Deploy your own — takes ~4 minutes:
-
-    1. Go to github.com/anuraghazra/github-readme-stats and click Fork
-    2. Go to vercel.com, sign in with GitHub, click "Add New Project"
-    3. Import your forked github-readme-stats repo
-    4. Before deploying, open "Environment Variables" and add:
-         Name:  PAT_1
-         Value: a GitHub personal access token
-                (github.com/settings/tokens -> Generate new token (classic)
-                 -> no scopes needed for public data -> copy it)
-    5. Deploy. You'll get a URL like your-stats.vercel.app
-    6. In this file, replace every "github-readme-stats.vercel.app"
-       with "your-stats.vercel.app"
-
-  More stable alternative that needs no setup — swap the two cards above for:
-
-    
-
-  OPTIONAL — animated contribution snake:
-    Add .github/workflows/snake.yml from github.com/Platane/snk,
-    then embed the generated SVG from the output-branch here.
--->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer" width="100%">
-</p>
