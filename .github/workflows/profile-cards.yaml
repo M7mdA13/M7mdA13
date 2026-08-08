@@ -1,0 +1,32 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    # Once a day at 00:00 UTC.
+    # NOTE: the project's own README shows "* */24 * * *" — that is wrong.
+    # It means "every minute of hour 0", i.e. 60 runs a day. Use this instead.
+    - cron: "0 0 * * *"
+  workflow_dispatch:   # lets you run it manually from the Actions tab
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 3          # Cairo (EET/UTC+3) — makes the productive-time card accurate
+          EXCLUDE: ""
+          AUTO_PUSH: true
+          THEME: "github_dark"   # generate one theme only; leave "" for all of them
+          ANIMATION: "load"      # none | fade | rise | draw | stagger | load | sequence | tint | rgb | rgb-soft
+          DURATION: ""
+          NAME: "Mohamed Adham"
