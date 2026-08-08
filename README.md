@@ -1,104 +1,219 @@
-<h1 align="center">Mohamed Adham Abdelgelil</h1>
+<!--
+  ┌─────────────────────────────────────────────────────────────┐
+  │  SETUP CHECKLIST — delete this comment block when done      │
+  ├─────────────────────────────────────────────────────────────┤
+  │  1. Create a PUBLIC repo named exactly: M7mdA13             │
+  │  2. Add this file as README.md                              │
+  │  3. Create an /assets folder, add banner.png (1280x320)     │
+  │  4. Deploy your own stats instance — see notes at bottom    │
+  │  5. Replace PORTFOLIO_URL_HERE with your real portfolio     │
+  └─────────────────────────────────────────────────────────────┘
+-->
+
+<!-- ══════════════ BANNER ══════════════
+     Option A (in use): auto-generated gradient banner.
+     Option B: make your own 1280x320 banner in Canva/Figma,
+     save to assets/banner.png, and swap in the commented line.  -->
 
 <p align="center">
-  <b>Full-Stack Developer</b> · MERN & Firebase · Flutter<br>
-  Computer & Software Engineering, MUST '26 · Cairo, Egypt
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Mohamed%20Adham&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20%7C%20Firebase%20%7C%20Flutter&descAlignY=55&descSize=18" width="100%">
+</p>
+
+<!-- <p align="center"><img src="./assets/banner.png" width="100%"></p> -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Backend-first+full-stack+developer;Head+of+Web+Development+%40+IEEE+MUST+SB;Computer+%26+Software+Engineering%2C+MUST+'26;Open+to+remote+full-stack+roles" alt="Typing SVG">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamed-abdelgelil-83a120153/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:madham2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://www.linkedin.com/in/mohamed-abdelgelil-83a120153/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:madham2004@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="PORTFOLIO_URL_HERE"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.ieeemust.org/"><img src="https://img.shields.io/badge/IEEE_MUST-00629B?style=for-the-badge&logo=ieee&logoColor=white"></a>
 </p>
 
+<br>
+
+<!-- ══════════════ ABOUT ══════════════ -->
+
+<img align="right" width="290" src="https://raw.githubusercontent.com/SAWARATSUKI/KawaiiLogos/main/GitHub/GitHub.png" alt="right-side visual — swap for your photo: ./assets/me.png">
+
+### `>` whoami
+
+I build full-stack applications end to end — REST APIs, auth flows, data modeling, and
+the interfaces sitting on top of them. I lean **backend-first**, but I've shipped a
+meaningful chunk of frontend on every project I've worked on.
+
+**Currently** — Head of Web Development at **IEEE MUST Student Branch**, leading a 20+ member
+committee and shipping the branch's official website for the global IEEE website competition.
+
+**Stack** — MERN and Firebase for web, Flutter for mobile.
+
+**Looking for** — full-stack roles, remote or Cairo-based.
+
+<br clear="right">
+
 ---
 
-I build full-stack web applications end to end — REST APIs, auth, data modeling, and the
-interfaces on top of them. Most of my work lives in the **MERN stack** and **Firebase**, with
-a side of **Flutter** for mobile.
+<!-- ══════════════ FEATURED WORK ══════════════ -->
 
-Right now I'm **Head of Web Development at IEEE MUST Student Branch**, where I lead a
-20+ member committee and shipped the branch's official website for the global IEEE
-website competition.
+## Featured Work
 
-**Open to full-stack roles — remote or Cairo-based.**
+<table>
+<tr><td width="50%" valign="top">
 
----
+### IEEE MUST SB — Official Website
+[`Repo`](https://github.com/M7mdA13/IEEE-WEBSITE2026) · [`Live`](https://www.ieeemust.org/)
 
-### Featured Work
+The Student Branch's official site and its submission to the
+**global IEEE website competition**.
 
-**[IEEE MUST SB — Official Website](https://github.com/M7mdA13/IEEE-WEBSITE2026)** · [Live](https://www.ieeemust.org/)
-> The Student Branch's official site and the branch's submission to the global IEEE website
-> competition. Built the full backend API — chapters, events, members, resources — plus a custom
-> admin dashboard the board uses to manage content directly. Serves 200+ active members.
->
-> `Node.js` `Express` `REST API` `Admin Dashboard`
+Built the full backend API across **12 MongoDB collections** —
+chapters, events, member data, resources — plus a separate custom
+**admin dashboard** the board uses to manage content directly.
+Serves **200+ active members**.
 
-**[Lost in Egypt — Map-First Tourism App](https://github.com/fagerhu03/lost_in_egypt)**
-> Senior graduation project. Cross-platform travel app built around an interactive map surfacing
-> **1,000+ Google Places locations** backed by a curated **800+ landmark offline database**.
-> I built the Firebase backend (Cloud Functions, Firestore, Storage), end-to-end auth with
-> role-based access for travelers and verified tour guides, the map experience, and real-time
-> landmark recognition via Google Cloud Vision. Top contributor on the project.
->
-> `Flutter` `Dart` `Firebase` `Google Cloud Vision` `Google Places API`
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![Mongo](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**[KickZone — Football Pitch Booking Platform](https://github.com/M7mdA13/kickzonebackend)** · [Frontend](https://github.com/M7mdA13/kickzone) · [Live](https://kickzone-taupe.vercel.app/)
-> DEPI graduation project, built with a team of 6. I led the backend — JWT auth, protected routes,
-> password hashing, REST endpoints, and MongoDB schemas — and built the matching React auth flow
-> and user profile experience.
->
-> `MongoDB` `Express` `React` `Node.js` `JWT`
+</td><td width="50%" valign="top">
 
-**[PetalView — Plant Bloom Visualization](https://github.com/M7mdA13/PetalView)**
-> Built at NASA Space Apps Cairo 2025. Flutter app that explores and predicts plant bloom activity
-> from NASA satellite layers (NDVI/EVI via GIBS), with interactive map layers, a Flask ML
-> prediction API, and a community feed.
->
-> `Flutter` `Dart` `Flask` `NASA GIBS API`
+### Lost in Egypt — Map-First Tourism App
+[`Repo`](https://github.com/fagerhu03/lost_in_egypt)
 
-**Smaller builds** — [Encrypto](https://github.com/M7mdA13/Encrypto) (React cipher tool, AES via Web Crypto) ·
-[Not Wordle](https://github.com/M7mdA13/Not-Wordle) (Wordle clone with full game logic) ·
+Senior graduation project, **team of 6** — I led backend development
+and built a large share of the frontend and services.
+
+**1,000+ Google Places locations** plus a curated **800+ landmark
+offline database**. Firebase backend spanning **16 Firestore
+collections**, Cloud Functions with **FCM push**, **Cloud Run
+scheduled jobs**, and Storage for user media. Role-based auth for
+travelers and verified guides, plus live landmark recognition
+through Google Cloud Vision.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
+![GCP](https://img.shields.io/badge/Cloud_Vision-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+</td></tr>
+<tr><td width="50%" valign="top">
+
+### KickZone — Pitch Booking Platform
+[`Backend`](https://github.com/M7mdA13/kickzonebackend) · [`Frontend`](https://github.com/M7mdA13/kickzone) · [`Live`](https://kickzone-taupe.vercel.app/)
+
+DEPI graduation project, **team of 6**. I led the backend —
+JWT auth, password hashing, protected routes, REST endpoints,
+and the MongoDB schemas behind them — and built the matching
+React auth flow and user profile experience.
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+</td><td width="50%" valign="top">
+
+### PetalView — Bloom Visualization
+[`Repo`](https://github.com/M7mdA13/PetalView)
+
+Built at **NASA Space Apps Cairo 2025**. Explores and predicts
+plant bloom activity from NASA satellite layers (NDVI/EVI via
+GIBS), with interactive map layers, a Flask ML prediction API,
+and a community feed.
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NASA](https://img.shields.io/badge/NASA_GIBS-0B3D91?style=flat-square&logo=nasa&logoColor=white)
+
+</td></tr>
+</table>
+
+### Freelance & Smaller Builds
+
+**Portfolio sites** — three responsive portfolio sites designed, built, and deployed to brief,
+with client revision rounds:
+[Ahmed Ayman](https://ahmed-ayman-portfolio.vercel.app) ·
+[Fager Hussien](https://fager-hussien-portfolio.vercel.app) ·
+[Zeyad Sherbini](https://zeyad-sherbini-portfolio.vercel.app)
+
+**Side projects** —
+[Encrypto](https://github.com/M7mdA13/Encrypto) (React cipher tool, AES via Web Crypto) ·
+[Not Wordle](https://github.com/M7mdA13/Not-Wordle) (Wordle clone, full game logic) ·
 [Book Notes](https://github.com/M7mdA13/Book-Notes) (EJS + Express + PostgreSQL)
 
 ---
 
-### Tech
+<!-- ══════════════ TECH ══════════════ -->
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+## Tech
 
-**Frontend** — React, JavaScript, HTML/CSS, Tailwind, Bootstrap, EJS
-**Backend** — Node.js, Express, REST API design, JWT auth, Firebase Cloud Functions
-**Data** — MongoDB, PostgreSQL, Firestore, Supabase, MS SQL Server
-**Mobile** — Flutter, Dart, Bloc
-**Also** — C++ (DSA), Python, Git, Postman, Google Cloud Vision
+<p>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,postgres,firebase,flutter,dart,tailwind,bootstrap,html,css&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,gcp,cpp,python,vscode&theme=dark" />
+</p>
+
+|  |  |
+|---|---|
+| **Frontend** | React · JavaScript · HTML/CSS · Tailwind · Bootstrap · EJS |
+| **Backend** | Node.js · Express · REST API design · JWT auth · Firebase Cloud Functions · Cloud Run |
+| **Data** | MongoDB · PostgreSQL · Firestore · Firebase Storage · Supabase · MS SQL Server |
+| **Mobile** | Flutter · Dart · Bloc |
+| **Also** | C++ (DSA) · Python · Git · Postman · Google Cloud Vision |
 
 ---
 
-### Beyond the code
+<!-- ══════════════ TEACHING ══════════════ -->
 
-Leading the IEEE MUST web committee means I spend a fair amount of time teaching. I've run
-**12 competition-prep sessions** across frontend and backend for our 20+ members, and I came up
-through the committee myself before being promoted to Head for the 2026 season.
+## Beyond the code
+
+Leading the IEEE MUST web committee means a lot of my time goes into teaching. I've run
+**12 competition-prep sessions** across frontend and backend for our **20+ members**, with
+**7–20 attendees** per session — and I came up through the committee myself before being
+promoted to Head for the 2026 season.
 
 ---
+
+<!-- ══════════════ STATS ══════════════ -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M7mdA13&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=default" alt="GitHub stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7mdA13&layout=compact&hide_border=true&langs_count=8&theme=default" alt="Top languages" height="150">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=M7mdA13&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&title_color=6C63FF&icon_color=6C63FF&theme=transparent" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M7mdA13&layout=compact&hide_border=true&langs_count=8&cache_seconds=86400&title_color=6C63FF&theme=transparent" />
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=M7mdA13&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6" />
+
 </div>
+
+<!--
+  ══════════════ IF THE STATS CARDS SHOW AS BROKEN IMAGES ══════════════
+
+  The shared github-readme-stats instance is rate-limited by GitHub and
+  fails constantly. Deploy your own — takes ~4 minutes:
+
+    1. Go to github.com/anuraghazra/github-readme-stats and click Fork
+    2. Go to vercel.com, sign in with GitHub, click "Add New Project"
+    3. Import your forked github-readme-stats repo
+    4. Before deploying, open "Environment Variables" and add:
+         Name:  PAT_1
+         Value: a GitHub personal access token
+                (github.com/settings/tokens -> Generate new token (classic)
+                 -> no scopes needed for public data -> copy it)
+    5. Deploy. You'll get a URL like your-stats.vercel.app
+    6. In this file, replace every "github-readme-stats.vercel.app"
+       with "your-stats.vercel.app"
+
+  More stable alternative that needs no setup — swap the two cards above for:
+
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M7mdA13&theme=github_dark" />
+
+  OPTIONAL — animated contribution snake:
+    Add .github/workflows/snake.yml from github.com/Platane/snk,
+    then embed the generated SVG from the output-branch here.
+-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer" width="100%">
+</p>
